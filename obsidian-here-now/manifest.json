@@ -1,0 +1,15 @@
+{
+  "id": "obsidian-here-now",
+  "name": "here.now Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Bidirectional sync between Obsidian vault and here.now Drives/Sites with periodic sync, offline queue, and conflict resolution.",
+  "author": "Nanocult",
+  "authorUrl": "https://github.com/nanocult",
+  "isDesktopOnly": false,
+  "fundingUrl": "https://github.com/sponsors/nanocult",
+  "permissions": [
+    "network",
+    "vault-access"
+  ]
+}
