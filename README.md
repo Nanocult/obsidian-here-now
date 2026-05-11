@@ -34,7 +34,7 @@
 
 ### Option 3: Development
 ```bash
-git clone https://github.com/YOUR_USERNAME/here-now-sync.git
+git clone https://github.com/nanocult/here-now-sync.git
 cd here-now-sync
 npm install
 npm run dev
