@@ -1,0 +1,26 @@
+# Build outputs
+dist/
+main.js
+main.js.map
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Local Obsidian data
+.obsidian/
+data.json
+.env
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Other
+*.hot-update.js
+.hot
