@@ -1,0 +1,29 @@
+{
+  "apiKeyLabel": "Key configured",
+  "syncEnabled": false,
+  "syncIntervalMinutes": 15,
+  "syncScope": "entire-vault",
+  "includedFolders": [],
+  "excludedPatterns": [
+    "*.tmp",
+    "*.log",
+    ".DS_Store",
+    "node_modules/**"
+  ],
+  "defaultTarget": "site",
+  "driveId": "drv_01kqd6nahwfbp8hhzx6bzypbd2",
+  "siteSlug": "bitter-vigil-5kz7",
+  "autoPublishToSite": false,
+  "conflictStrategy": "timestamp-wins",
+  "enableManualMerge": true,
+  "trashFolderName": ".trash",
+  "enableOfflineQueue": false,
+  "maxQueueSize": 100,
+  "throttleLargeFiles": true,
+  "largeFileThresholdMB": 100,
+  "showNotifications": true,
+  "showDetailedLogs": true,
+  "apiBaseUrl": "https://here.now/api/v1",
+  "requestTimeoutMs": 30000,
+  "__apiKey": "4588034747d915f2dddb489bb45b065076d215c2311f6a7b7372261eb8d5d8b6"
+}
