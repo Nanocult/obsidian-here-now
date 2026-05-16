@@ -64,7 +64,7 @@
 
 ### Option 2: Manual
 1. Download the latest release (`obsidian-here-now.zip`)
-2. Extract to `.obsidian/plugins/obsidian-here-now/` in your vault
+2. Extract to `.obsidian/plugins/here-now-sync/` in your vault
 3. Enable in `Settings → Community Plugins`
 
 ### Option 3: Development
