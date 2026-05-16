@@ -6,3 +6,8 @@
 - Status bar dropdown & context menu sync
 ### Fixed
 - Batch upload 428/400 errors via `ops` + `ifNoneMatch` compliance
+
+## [0.1.3] - 2026-05-16
+### Fixed
+- Minor fixes of plugin id to reflect the Obsidian requirements
+- Correction of description in manifest
