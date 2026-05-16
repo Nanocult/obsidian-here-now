@@ -249,19 +249,6 @@ here-now-sync/
 └── package.json             # Dependencies & scripts
 ```
 
----
-
-## 🤝 Contributing
-
-1. Fork & clone repository
-2. Create feature branch (`git checkout -b feat/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push & open Pull Request
-
-Please follow [Obsidian Plugin Guidelines](https://docs.obsidian.md/Home) and maintain TypeScript strict mode.
-
----
-
 ## 📄 License
 
 [MIT](LICENSE) © 2026 Nanocult
