@@ -1,7 +1,7 @@
 {
   "id": "here-now-sync",
   "name": "Here.Now Sync",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "minAppVersion": "1.5.0",
   "description": "Bidirectional sync between vault and here.now Drives/Sites with periodic sync, offline queue, and conflict resolution.",
   "author": "Nanocult",
