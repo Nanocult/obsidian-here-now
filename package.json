@@ -1,7 +1,7 @@
 {
-  "name": "obsidian-here-now",
-  "version": "0.1.1",
-  "description": "Sync Obsidian vault with here.now Drives and Sites",
+  "name": "here-now-sync",
+  "version": "0.1.2",
+  "description": "Sync vault with here.now Drives and Sites",
   "main": "main.js",
   "scripts": {
     "dev": "node esbuild.config.mjs",
@@ -12,7 +12,7 @@
     "lint": "eslint src --ext .ts",
     "test": "jest",
     "watch:esbuild": "node esbuild.config.mjs",
-    "watch:css": "cpy styles.css .obsidian\\plugins\\obsidian-here-now\\styles.css --watch"
+    "watch:css": "cpy styles.css .obsidian\\plugins\\here-now-sync\\styles.css --watch"
   },
   "keywords": [
     "obsidian",
